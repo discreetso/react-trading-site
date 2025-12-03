@@ -1,6 +1,12 @@
+import Hero from "./Hero";
+import LeftSection from "./LeftSection";
+
 function ProductPage() {
     return (
-        <h1>ProductPage</h1>
+        <>
+        <Hero />
+        <LeftSection />
+        </>
     );
 }
 
