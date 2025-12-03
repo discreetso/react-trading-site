@@ -5,10 +5,10 @@ function Team() {
                 <h1 className="text-center">People</h1>
             </div>
 
-            <div className="row p-5 text-muted"
+            <div className="row p-3 text-muted"
             style={{ lineHeight: '1.3', fontSize: '1.2em'}}>
                 <div className="col-6 p-5 text-center">
-                    <img src="media/images/nithinKamath.jpg" alt="OwnerImage" style={{ borderRadius:'100%', width:'60%' }} />
+                    <img src="media/images/nithinKamath.jpg" alt="OwnerImage" style={{ borderRadius:'100%', width:'50%' }} />
                     <h4 className="mt-5">Nithin Kamath</h4>
                     <h6>Founder, CEO</h6>
                 </div>
